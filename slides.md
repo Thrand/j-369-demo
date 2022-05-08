@@ -61,7 +61,7 @@ presenterImage: 'https://pbs.twimg.com/profile_images/1523099183556829185/nUzz-E
 # Jordan Shaw
 
 - 💻 Technical Lead
-- ✏ Passionate about Software, Security, Dev growth
+- ✏ Passionate about Software, Security & Dev growth
 - 🎨 Experienced in building awesome stuff
 
 <div class="my-10 grid grid-cols-[80px,1fr]">
@@ -93,7 +93,7 @@ class: my-cool-content-on-the-right
 
 ---
 layout: image-right 
-image: ./images/first30.png
+image: './images/first30.png'
 ---
 # First 30 days 
 Orientation starts here
@@ -104,7 +104,7 @@ Key outcomes
 <div v-click="2"><li> Understand the products 🧠</li></div>
 <div v-click="3"><li> Familiarise with Operations 💭</li></div>
 <div v-click="4"><li> Read relevant materials 📰</li></div>
-<div v-click="5"><li> Review Tech Stategy 💡</li></div>
+<div v-click="5"><li> Review Tech Strategy 💡</li></div>
 <div v-click="6"><li> Understand what success looks like 🎉</li></div>
 ---
 layout: image-left
@@ -120,7 +120,7 @@ Key outcomes
 <div v-click="2"><li> Identify talent gaps 🔍</li></div>
 <div v-click="3"><li> Consider alternatives 📈</li></div>
 <div v-click="4"><li> Challenge Tech Strategy ❓</li></div>
-<div v-click="5"><li> Review onboarding experience 🤓</li></div>
+<div v-click="5"><li> Review on-boarding experience 🤓</li></div>
 ---
 layout: image-right
 image: ./images/next90.png
