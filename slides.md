@@ -150,9 +150,7 @@ class: text-center
 # Thank you
 
 <div class='mx-auto px-5 w-100 grid place-items-center grid-cols-2 gap-x-20'>
-  <a href="https://www.tinyurl.com/fformfeedback"><img src="/images/feedbackQR.png" /></a>
+  <a href="https://forms.gle/7J5yTdoGWHvHyQAR6"><img src="/images/feedbackQR.png" /></a>
   <a href="https://sli.dev"><img src="https://sli.dev/logo-title.png" /></a>
 </div>
-
-[Feedback form](tinyurl.com/fformfeedback)
 
