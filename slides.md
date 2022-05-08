@@ -15,7 +15,7 @@ info: |
 
 # persist drawings in exports and build
 drawings:
-  persist: false
+  persist: true
 download: true
 layout: cover
 ---
